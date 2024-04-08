@@ -21,6 +21,8 @@ import markosovilj.pageobjects.ProductCatalog;
 
 public class StandAloneTest extends BaseTest{
 	
+	// evo jednog malog komentara hehe
+	
 	String productName = "ADIDAS ORIGINAL";
 		
 		@Test(dataProvider = "getData", groups = {"Purchase"})
